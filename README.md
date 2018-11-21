@@ -1,3 +1,8 @@
+Credits:
+
+MWS Restaurant Reviews Project, A Walkthrough by Alexandro Perez
+
+
 # Mobile Web Specialist Certification Course
 ---
 #### _Three Stage Course Material Project - Restaurant Reviews_
