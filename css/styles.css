@@ -1,6 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 
+/*styles apply globally*/
 .responsive-img {
   height: auto;
   max-width: 100%
@@ -162,8 +163,14 @@ nav h1 a {
   min-height: 248px;
   min-width: 100%;
   height: auto;
-
 }
+
+@media screen and (min-width: 750px) {
+  .restaurant-img {
+    display:flex;
+    justify-content: space-between;
+    margin:0 auto 30px;
+  }
 #restaurants-list li h1 {
   color: #f18200;
   font-family: Arial,sans-serif;
@@ -256,13 +263,13 @@ nav h1 a {
     #restaurant-container, #reviews-container {
    width: 50%;
     }
-    .inside #map-container {
+.inside #map-container {
   background: blue none repeat scroll 0 0;
     height: 87%;
     position: fixed;
     width: 50%;
 }
-  	}
+  }
 #reviews-container {
   padding: 30px 40px 80px;
 }
@@ -294,17 +301,3 @@ nav h1 a {
 #restaurant-hours td {
   color: #666;
 }
-
-/*responsive design*/
-
-/*@media screen and (min-width: 500px) {
-   #map-container{
-		width: auto
-  }
-}
-@media screen and (min-width: 750px) {
-  .header__logo {
-    justify-content: space-between;
-    margin:0 auto 30px;
-    text-align: left;
-      }*/
