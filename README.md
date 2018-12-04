@@ -1,8 +1,14 @@
 Credits:
 
-MWS Restaurant Reviews Project, A Walkthrough by Alexandro Perez
+//MWS Restaurant Reviews Project, A Walkthrough by Alexandro Perez
 
+//https://www.youtube.com/watch?v=92dtrNU1GQc
 
+/*matthewcranford.com - part 2
+https://matthewcranford.com/restaurant-reviews-app-walkthrough-part-2-responsiveness/
+
+https://www.youtube.com/watch?v=ksXwaWHCW6k
+<a href="#maincontent" class = "skip-link" > Skip to main content </a>
 # Mobile Web Specialist Certification Course
 ---
 #### _Three Stage Course Material Project - Restaurant Reviews_
