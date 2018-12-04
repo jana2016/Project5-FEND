@@ -1,14 +1,22 @@
 Credits:
 
-//MWS Restaurant Reviews Project, A Walkthrough by Alexandro Perez
+MWS Restaurant Reviews Project, A Walkthrough by Alexandro Perez
 
-//https://www.youtube.com/watch?v=92dtrNU1GQc
 
-/*matthewcranford.com - part 2
+Project 1 MWS Webinar with Doug Brown
+https://www.youtube.com/watch?v=92dtrNU1GQc
+
+matthewcranford.com - part 2 Restaurant Reviews walkthrough
 https://matthewcranford.com/restaurant-reviews-app-walkthrough-part-2-responsiveness/
 
+Intro to Service Workers & Caching - Traversy Media
 https://www.youtube.com/watch?v=ksXwaWHCW6k
-<a href="#maincontent" class = "skip-link" > Skip to main content </a>
+
+1:1 tutoring from hColleen via Slack chats
+
+
+
+
 # Mobile Web Specialist Certification Course
 ---
 #### _Three Stage Course Material Project - Restaurant Reviews_
